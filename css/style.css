@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    font-family: 'Tajawal', sans-serif;
+}
+ 
+#loginform {
+    background-image: linear-gradient(to left ,#c41a9a,#64a9ee);
+    min-height: 100vh;
+    padding: 50px;
+    
+
+}
+#loginform .btn-groub {
+    background-color: white;
+    width: 450px;
+    margin: auto;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+.btn-groub h2 {
+    font-size: 45px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+ .input-groub label {
+    font-size: 25px;
+    color: rgb(73, 71, 71);
+
+}
+
+.input-groub input {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+
+}
+.input-groub .input-groub-link {
+    font-size: 20px;
+}
+
+.input-groub .input-groub-link {
+    text-decoration: none;
+    color: #3a96f2;
+    
+}
+
+.btn-groub .input-button {
+    width: 100%;
+    background-image: linear-gradient(to left ,#c41a9a,#64a9ee);
+    padding: 10px;
+    margin-top: 30px;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+
+.btn-groub .input-paragraph{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.btn-groub .btn-groub-link{
+    color: #3a96f2;
+    text-decoration: none;
+    font-size: 20px;
+  
+}
+
+
